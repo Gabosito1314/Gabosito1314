@@ -5,7 +5,7 @@
 [![Jugar Ahora](https://img.shields.io/badge/JUGAR%20AHORA%20%E2%9E%94-222222?style=for-the-badge)](https://eduardoviscarra.itch.io/) [![Itch.io Portfolio](https://img.shields.io/badge/Itch.io%20Portfolio-eduardoviscarra.itch.io-FA5C5C?style=for-the-badge&logo=itch.io&logoColor=white)](https://eduardoviscarra.itch.io/)
 [![GitHub Profile](https://img.shields.io/badge/GitHub-Gabosito1314-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gabosito1314)
 
-Desarrollador de videojuegos en **Unity (2D y 3D)** apasionado por crear experiencias completas desde su concepción hasta su implementación. Me encanta estructurar **Game Design Documents (GDD)** y diseñar las **mecánicas de juego junto con las storylines (narrativa)** para que la jugabilidad y la historia avancen de la mano. Le pongo el máximo empeño y dedicación a cada proyecto, disfrutando especialmente del **trabajo en equipo** para construir juegos pulidos, inmersivos y bien organizados.
+Desarrollador de videojuegos en **Unity (2D y 3D)** apasionado por crear experiencias completas desde su concepción hasta su implementación. Me encanta estructurar **Game Design Documents (GDD)** y diseñar las **mecánicas de juego junto con las storylines (narrativa)** para que la jugabilidad y la historia avancen de la mano. Le pongo el máximo empeño y dedicación a cada proyecto, disfrutando especialmente del trabajo en equipo para construir juegos pulidos, inmersivos y bien organizados.
 
 ---
 
