@@ -32,8 +32,8 @@ Desarrollador de videojuegos en **Unity (2D y 3D)** apasionado por crear experie
 
 <p align="center">
   <a href="https://github.com/Gabosito1314/UnCuentoMas">
-    <img src="media/uncuentomas_boss.jpg" alt="Un Cuento Más - Batalla contra el Dragón" width="48%" />
-    <img src="media/uncuentomas_village.jpg" alt="Un Cuento Más - Escenario de Teatro de Títeres" width="48%" />
+   <img src="media/uncuentomas_village.jpg" alt="Un Cuento Más - Escenario de Teatro de Títeres" width="48%" /> 
+   <img src="media/uncuentomas_boss.jpg" alt="Un Cuento Más - Batalla contra el Dragón" width="48%" />
   </a>
 </p>
 
