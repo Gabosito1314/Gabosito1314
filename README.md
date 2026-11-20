@@ -1,4 +1,4 @@
-# Eduardo Gabriel Viscarra Quisbert (`@Gabosito1314`)
+# Eduardo Gabriel Viscarra Quisbert
 
 ### Desarrollador de Videojuegos en Unity (2D / 3D) & Game Designer
 
